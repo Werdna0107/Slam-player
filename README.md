@@ -4,15 +4,13 @@ A portable LiDAR point cloud viewer that "builds" the scene over time — the cl
 
 Supports coloring by height, intensity (with selectable palette), and true color (RGB).
 
-![demo](docs/demo.gif)
-
-> 📺 Functionality demo on YouTube Shorts: **[link]**
+![A2 SLAM Player](docs/screenshot.png)
 
 ---
 
 ## Download
 
-**[⬇ Download A2 SLAM Player](https://drive.google.com/file/d/13OTNnvsmT-oOIwMWLFLHTdmgoYxJAudW/view?usp=sharing)**
+**[⬇ Download A2 SLAM Player](https://drive.google.com/your-link-here)**
 
 This is a **portable application** — no installation required.
 
@@ -73,6 +71,8 @@ A progress bar shows bag reading and time transfer. When done, the Play button b
 - **Play / Pause** — start/pause the build. Points appear in ascending time order — the cloud "builds up" the way the scanner captured it.
 - **Restart** — start the build again from an empty scene.
 
+> 📺 See it in action on YouTube Shorts: **[link]**
+
 ---
 
 ## Modes and controls
@@ -112,6 +112,16 @@ Tested on **Share S20** scanner data. Not tested with other manufacturers' scann
 MIT License
 
 Copyright (c) 2026 A2
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
