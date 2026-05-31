@@ -10,7 +10,7 @@ Supports coloring by height, intensity (with selectable palette), and true color
 
 ## Download
 
-**[⬇ Download A2 SLAM Player](https://drive.google.com/your-link-here)**
+**[⬇ Download A2 SLAM Player](https://drive.google.com/file/d/13OTNnvsmT-oOIwMWLFLHTdmgoYxJAudW/view?usp=drive_link)**
 
 This is a **portable application** — no installation required.
 
