@@ -71,7 +71,7 @@ A progress bar shows bag reading and time transfer. When done, the Play button b
 - **Play / Pause** — start/pause the build. Points appear in ascending time order — the cloud "builds up" the way the scanner captured it.
 - **Restart** — start the build again from an empty scene.
 
-> 📺 See it in action on YouTube Shorts: **[link]**
+> 📺 See it in action on YouTube Shorts: **[(https://youtube.com/shorts/MZFGi1OsBT0?is=L5gz5BWacRvypMyz]**
 
 ---
 
