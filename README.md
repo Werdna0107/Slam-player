@@ -4,7 +4,7 @@ A portable LiDAR point cloud viewer that "builds" the scene over time — the cl
 
 Supports coloring by height, intensity (with selectable palette), and true color (RGB).
 
-![A2 SLAM Player](docs/screenshot.png)
+![A2 SLAM Player](screen.PNG)
 
 ---
 
